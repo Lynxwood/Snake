@@ -1,0 +1,11 @@
+C:\Users\kseni\source\repos\Zmeyka\bin\Debug\netcoreapp3.1\Zmeyka.exe
+C:\Users\kseni\source\repos\Zmeyka\bin\Debug\netcoreapp3.1\Zmeyka.deps.json
+C:\Users\kseni\source\repos\Zmeyka\bin\Debug\netcoreapp3.1\Zmeyka.runtimeconfig.json
+C:\Users\kseni\source\repos\Zmeyka\bin\Debug\netcoreapp3.1\Zmeyka.runtimeconfig.dev.json
+C:\Users\kseni\source\repos\Zmeyka\bin\Debug\netcoreapp3.1\Zmeyka.dll
+C:\Users\kseni\source\repos\Zmeyka\bin\Debug\netcoreapp3.1\Zmeyka.pdb
+C:\Users\kseni\source\repos\Zmeyka\obj\Debug\netcoreapp3.1\Zmeyka.csprojAssemblyReference.cache
+C:\Users\kseni\source\repos\Zmeyka\obj\Debug\netcoreapp3.1\Zmeyka.AssemblyInfoInputs.cache
+C:\Users\kseni\source\repos\Zmeyka\obj\Debug\netcoreapp3.1\Zmeyka.AssemblyInfo.cs
+C:\Users\kseni\source\repos\Zmeyka\obj\Debug\netcoreapp3.1\Zmeyka.dll
+C:\Users\kseni\source\repos\Zmeyka\obj\Debug\netcoreapp3.1\Zmeyka.pdb
